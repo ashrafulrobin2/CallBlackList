@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CallBlackList</string>
+    <string name="bl">Call Blocking</string>
+    <string name="sms">SMS Bloking</string>
+    <string name="trk">Anti Theft</string>
+    <string name="clbl">Call Block</string>
+    <string name="del">Delete</string>
+    <string name="cls">Clear</string>
+    <string name="no">New No :</string>
+    <string name="hello">Hello World, tracker!</string>
+</resources>
